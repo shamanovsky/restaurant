@@ -1,0 +1,24 @@
+.hero {
+    background-image: url(../img/jumbotron.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.min-vh-75 {
+    min-height:75vh !important;
+}
+
+.heading-1
+{
+    font-size:48px;
+    font-weight:normal;
+}
+
+.w-65
+{
+    width:65%;
+}
+
+  .border {
+    visibility:hidden;
+  }
